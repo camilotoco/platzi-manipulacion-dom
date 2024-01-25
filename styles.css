@@ -1,0 +1,26 @@
+#btnCalculo{
+    color: blue;
+    cursor: pointer!important;
+    font-size: 14px!important;
+    font-weight: 700!important;
+    user-select: none!important
+}
+.MuiListItem-button {
+    size: 1px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(76, 51, 255)
+
+}
+.MuiSvgIcon-root{
+    width: 21px !important;
+    height: 21px !important;
+    color: #52525B;
+    display: inline-flex;
+    min-width: 0;
+    flex-shrink: 0;
+    margin-right: 10px; 
+}
+
+#result{
+    color: blue;
+}
